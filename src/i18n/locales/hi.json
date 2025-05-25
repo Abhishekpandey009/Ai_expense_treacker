@@ -1,0 +1,41 @@
+{
+  "common": {
+    "add": "जोड़ें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "loading": "लोड हो रहा है...",
+    "currency": "मुद्रा",
+    "language": "भाषा"
+  },
+  "expense": {
+    "title": "शीर्षक",
+    "amount": "राशि",
+    "category": "श्रेणी",
+    "date": "दिनांक",
+    "note": "नोट",
+    "scanReceipt": "रसीद स्कैन करें",
+    "addExpense": "खर्च जोड़ें",
+    "editExpense": "खर्च संपादित करें",
+    "categories": {
+      "food": "भोजन",
+      "transport": "परिवहन",
+      "entertainment": "मनोरंजन",
+      "shopping": "खरीदारी",
+      "housing": "आवास",
+      "utilities": "उपयोगिताएं",
+      "healthcare": "स्वास्थ्य देखभाल",
+      "education": "शिक्षा",
+      "travel": "यात्रा",
+      "other": "अन्य"
+    }
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "recentExpenses": "हाल के खर्च",
+    "totalExpenses": "कुल खर्च",
+    "monthlyTotal": "इस महीने",
+    "monthlyAverage": "मासिक औसत"
+  }
+}

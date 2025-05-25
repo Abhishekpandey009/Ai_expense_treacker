@@ -1,0 +1,41 @@
+{
+  "common": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save",
+    "loading": "Loading...",
+    "currency": "Currency",
+    "language": "Language"
+  },
+  "expense": {
+    "title": "Title",
+    "amount": "Amount",
+    "category": "Category",
+    "date": "Date",
+    "note": "Note",
+    "scanReceipt": "Scan Receipt",
+    "addExpense": "Add Expense",
+    "editExpense": "Edit Expense",
+    "categories": {
+      "food": "Food",
+      "transport": "Transport",
+      "entertainment": "Entertainment",
+      "shopping": "Shopping",
+      "housing": "Housing",
+      "utilities": "Utilities",
+      "healthcare": "Healthcare",
+      "education": "Education",
+      "travel": "Travel",
+      "other": "Other"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "recentExpenses": "Recent Expenses",
+    "totalExpenses": "Total Expenses",
+    "monthlyTotal": "This Month",
+    "monthlyAverage": "Monthly Average"
+  }
+}
